@@ -7,6 +7,6 @@ dependencies:
   - ipycanvas
   - pandas
   - plotly
-  - bokeh
+  - scipy
   - pip:
     - coreflow
