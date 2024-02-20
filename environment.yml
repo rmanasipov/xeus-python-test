@@ -6,6 +6,8 @@ dependencies:
   - xeus-python
   - ipycanvas
   - pandas
+  - matplotlib
+  - seaborn
   - plotly
   - scipy
   - pip:
