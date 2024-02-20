@@ -5,3 +5,9 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+  - pandas
+  - plotly
+  - bokeh
+  - scipy
+  - pip
+    - coreflow
