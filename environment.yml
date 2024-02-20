@@ -8,6 +8,5 @@ dependencies:
   - pandas
   - plotly
   - bokeh
-  - scipy
-  - pip
+  - pip:
     - coreflow
